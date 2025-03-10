@@ -34,13 +34,19 @@
 - Python 3
 	Please use `pip install -r requirements.txt` to install the dependencies.
 
-## RLUI Dataset
+## Datasets
 
-you can get pretrained model for RLUI datasets from [Baidu Netdisk](https://pan.baidu.com/s/1eT6Ky7hFzVDbb40lhuXuzw?pwd=cvpr)
+### RLUI Dataset
+
+you can get RLUI from [Baidu Netdisk](https://pan.baidu.com/s/1eT6Ky7hFzVDbb40lhuXuzw?pwd=cvpr)
+
+### Other Datasets
+
+you can get other datasets used in UDUIE from [Baidu Netdisk](https://pan.baidu.com/s/15wByLLGj6KKUQ0MsuiFvhA?pwd=cvpr)
 
 ## Pretrained Models
 
-you can get pretrained model for RLUI datasets from [Baidu Netdisk](https://pan.baidu.com/s/1rUqGlU4rnaaqP3JgiAAn-Q?pwd=cvpr)
+you can get pretrained model for RLUI dataset from [Baidu Netdisk](https://pan.baidu.com/s/1rUqGlU4rnaaqP3JgiAAn-Q?pwd=cvpr)
 
 ## Training
 
